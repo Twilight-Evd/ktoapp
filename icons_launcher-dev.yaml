@@ -1,0 +1,8 @@
+icons_launcher:
+  image_path: 'assets/images/kto/app_icon_kto_dev_1024.png'
+  dark_path: 'assets/images/kto/app_icon_kto_dev_black_1024.png'
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
